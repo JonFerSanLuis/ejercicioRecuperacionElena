@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    color: white;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+#parrafoInicio {
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    margin-bottom: 12rem;
+}
+
+#btnComprar {
+    margin-right: 1rem;
+    padding: 0.4rem 1.1rem;
+    font-size: 1rem;
+    background: none;
+    border: none;
+    border-radius: 0.3rem;
+}
+
+#btnComprar:hover {
+    background-color: rgb(36, 36, 36);
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+p   {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+}
+
+#card {
+    background-color:white;
+}
+
+#especificacionesContainer  {
+    color: white;
+}
+
+form {
+    max-width: 600px;
+}
